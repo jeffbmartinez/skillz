@@ -1,0 +1,23 @@
+{
+  "name": "skillz",
+  "version": "1.0.0",
+  "description": "See who has what skillz",
+  "main": "skillz.js",
+  "dependencies": {
+    "express": "^4.9.8"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jeffbmartinez/skillz.git"
+  },
+  "author": "jeff martinez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeffbmartinez/skillz/issues"
+  },
+  "homepage": "https://github.com/jeffbmartinez/skillz"
+}
